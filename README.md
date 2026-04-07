@@ -1,7 +1,7 @@
 <h1> Hello,    <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 5%> </h1>
 <p align='center'>
 
-  ## Highly honored you're vising my Github
+  ## Highly honored you're visiting my Github
 
  ![](https://visitor-badge.laobi.icu/badge?page_id=amonthecreator.amonthecreator)      [![Github](https://img.shields.io/github/followers/amonthecreator?label=Follow&style=social)](https://github.com/amonthecreator)
 
